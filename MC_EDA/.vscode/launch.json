@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ziadghanem/Desktop/Sales Forcasting/untitled folder/SalesForecasting_DemandPrediction/MC_EDA",
+      "program": "/Users/ziadghanem/Desktop/Sales Forcasting/untitled folder/SalesForecasting_DemandPrediction/MC_EDA/build/Debug/outDebug"
+    }
+  ]
+}
