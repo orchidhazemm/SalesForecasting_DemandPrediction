@@ -257,7 +257,7 @@ def re_training_models():
         # Save the combined data as a new version
         new_version = highest_version + 1
         new_version_file = f"depi_v{new_version}.csv"
-        # df_combined.to_csv(os.path.join(directory, new_version_file), index=False)
+        df_combined.to_csv(os.path.join(directory, new_version_file), index=False)
 
         # Process the combined DataFrame
 
