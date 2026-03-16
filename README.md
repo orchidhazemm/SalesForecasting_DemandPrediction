@@ -1,6 +1,6 @@
-# DEPI Graduation Project
+# SalesForecasting_DemandPrediction
 
-A **Sales Forecasting & On-Demand Predictions** system for product demand and revenue planning. Built as a graduation project with a full data pipeline, ML models, and an interactive Streamlit app.
+A **Sales Forecasting & On-Demand Predictions** system (DEPI Graduation Project) for product demand and revenue planning. Built with a full data pipeline, ML models, and an interactive Streamlit app.
 
 ## What This Project Does
 
